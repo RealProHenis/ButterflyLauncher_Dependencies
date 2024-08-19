@@ -1,0 +1,100 @@
+{
+  "Dual Pump Shotguns": {
+    "modType": "Weapon",
+    "modDescription": "Pump shotguns... but better!",
+    "modAuthor": "Noffie",
+    "modVersion": "7.40",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflyDualPumps-WindowsClient.pak",
+        "hash": "929023bd814acb10fd1167ce6269f6bf462f7a6a3694461f5a73e4a44aea3379",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflyDualPumps-WindowsClient.sig",
+        "hash": "5dc757fd023395c63ef01679531c126ca7c3dfd6258fdb3e913977442e33e177",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Dual%20Pump%20Shotguns/pakchunkButterflyDualPumps-WindowsClient.sig"
+      }
+    ]
+  },
+  "Fart Gun": {
+    "modType": "Weapon",
+    "modDescription": "A gun that shoots smelly farts",
+    "modAuthor": "Noffie",
+    "modVersion": "7.40",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Weapons/Fart%20Gun/ButterflyLauncher_FartGun.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflyFartGun-WindowsClient.pak",
+        "hash": "4a972bb2037be32d243bd8580abfdb1bd70dd1df8adf4b9cf7c13f2345b8a24c",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Fart%20Gun/pakchunkButterflyFartGun-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflyFartGun-WindowsClient.sig",
+        "hash": "5dc757fd023395c63ef01679531c126ca7c3dfd6258fdb3e913977442e33e177",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Weapons/Fart%20Gun/pakchunkButterflyFartGun-WindowsClient.sig"
+      }
+    ]
+  },
+  "Mr. Krabs": {
+    "modType": "Skin",
+    "modDescription": "Loves his money",
+    "modAuthor": "Noffie",
+    "modVersion": "any version",
+    "modReplacement": "Athena_Commando_F_Default",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Mr.%20Krabs/ButterflyLauncher_Mod_MrKrabs.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflyMrKrabs-WindowsClient.pak",
+        "hash": "06c66c7fc1ae4765e627325e0cb89f06cddf255679c5e9eca301066680e79d19",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr.%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflyMrKrabs-WindowsClient.sig",
+        "hash": "5dc757fd023395c63ef01679531c126ca7c3dfd6258fdb3e913977442e33e177",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Mr.%20Krabs/pakchunkButterflyMrKrabs-WindowsClient.sig"
+      }
+    ]
+  },
+  "Spongebob": {
+    "modType": "Skin",
+    "modDescription": "Lives in a pineapple under the sea",
+    "modAuthor": "Unknown",
+    "modVersion": "7.40",
+    "modReplacement": "Athena_Commando_F_Default",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Spongebob/ButterflyLauncher_Mod_Spongebob.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflySpongebob-WindowsClient.pak",
+        "hash": "c053fb94283b23da855fb5ebac7093b42c39e4a7cb466d3a7bc8eeaf84f72458",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Spongebob/pakchunkButterflySpongebob-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflySpongebob-WindowsClient.sig",
+        "hash": "4491ce56f04eb014ce4e071993f5e316b6f168a12791d389da311fcda2e2cb07",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Spongebob/pakchunkButterflySpongebob-WindowsClient.sig"
+      }
+    ]
+  },
+  "Steve": {
+    "modType": "Skin",
+    "modDescription": "The guy from Minecraft",
+    "modAuthor": "boredcrow24",
+    "modVersion": "6.10, 7.30, 7.40, 8.20",
+    "modReplacement": "Athena_Commando_F_Default",
+    "logo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Mods/main/Custom%20Skins/Steve/ButterflyLauncher_Mod_Steve.png",
+    "files": [
+      {
+        "fileName": "pakchunkButterflySteve-WindowsClient.pak",
+        "hash": "68bbfe5bcb7591c7b840ab00e90e141179f282c9ff1ca42d049cd2312f4f3397",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Steve/pakchunkButterflySteve-WindowsClient.pak"
+      },
+      {
+        "fileName": "pakchunkButterflySteve-WindowsClient.sig",
+        "hash": "0a51b574b9e37839c8538ac885ad841c7e527674314f1903c42a8bd9ec22bf6a",
+        "url": "https://github.com/RealProHenis/ButterflyLauncher_Mods/raw/main/Custom%20Skins/Steve/pakchunkButterflySteve-WindowsClient.sig"
+      }
+    ]
+  }
+}
