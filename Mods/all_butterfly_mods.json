@@ -4,6 +4,8 @@
     "modDescription": "Pump shotguns... but better!",
     "modAuthor": "Noffie",
     "modVersion": "7.40",
+    "modReplacement": "WID_DualPistol_SemiAuto_Athena_SR_Ore_T03",
+    "modAmmo": "AthenaAmmoDataBulletsMedium",
     "modLogo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Mods/Custom%20Weapons/Dual%20Pump%20Shotguns/ButterflyLauncher_DualPumpShotguns.png",
     "modFiles": [
       {
@@ -21,6 +23,8 @@
     "modDescription": "A gun that shoots smelly farts",
     "modAuthor": "Noffie",
     "modVersion": "7.40",
+    "modReplacement": "WID_Shotgun_BreakBarrel_Athena_SR_Ore_T03",
+    "modAmmo": "AthenaAmmoDataShells",
     "modLogo": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Mods/Custom%20Weapons/Fart%20Gun/ButterflyLauncher_FartGun.png",
     "modFiles": [
       {
