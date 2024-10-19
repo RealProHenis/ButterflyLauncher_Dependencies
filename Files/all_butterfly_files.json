@@ -1,0 +1,38 @@
+{
+    "BackendDLL": {
+        "url": "",
+        "hash": "0ccc8d843133a9e9469bd3779f326eacbf3ae042c1925479cbff2e0fcd98e47f"
+    },
+    "ConsoleDLL": {
+        "url": "",
+        "hash": "df129a0a55ded91d097d02a90f005ca57e48b345da05607dd9f8a5e5b024934b"
+    },
+    "MemoryFixDLL": {
+        "url": "",
+        "hash": "09678b68e73eeb4463e3b442e0982eba7ff08b07df0614b12a02ed4c9f17fb7a"
+    },
+    "SingleplayerDLL": {
+        "url": "",
+        "hash": "1789fd39f58e5910f8f0c8289ed1578bf96bc7e8a4cbbb515ce245d6c322d0e3"
+    },
+    "SingleplayerManagerDLL": {
+        "url": "",
+        "hash": "a792759bb63503325ab1268af9035f3e3f7600394b61673f6ba9016c99994b88"
+    },
+    "GameServerDLL": {
+        "url": "",
+        "hash": "057e5f2449a772124d5db74b0f9b95eda91fd4b40f35207585d9d4027e0dbf46"
+    },
+    "ParserEXE": {
+        "url": "",
+        "hash": "03acf82444da357b6e450c7fca797eed270fb3c1fb478eddacce106b6bdaee9c"
+    },
+    "CompactorEXE": {
+        "url": "",
+        "hash": "c78f9bef71355797642a3c3e4b1402b803aa80143e4a9c61f1fcaa18898f3379"
+    },
+    "BackendEXE": {
+        "url": "",
+        "hash": "eae63171c496338157c151bed8784e93e02a49ca0edeb11b1c31ba5f2a21c913"
+    }
+}
