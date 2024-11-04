@@ -11,7 +11,8 @@
         "release_date": "10-17-2017",
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Added Voice Chat on PC|-You can now switch between teammates while spectating|-Removed mouse smoothing"
+        "notes": "-Added Voice Chat on PC|-You can now switch between teammates while spectating|-Removed mouse smoothing",
+        "patch_notes_url": "https://fortnite.fandom.com/wiki/Update_v1.7.2"
     },
     "1.8 [3724489]": {
         "version": "1.8",
@@ -25,7 +26,8 @@
         "release_date": "10-25-2017",
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Introducing \u201cSlurp Juice,\u201d a regeneration potion that grants 1 health and 1 shield per second for 25 seconds|-Halloween content, leaderboards and item store"
+        "notes": "-Introducing \u201cSlurp Juice,\u201d a regeneration potion that grants 1 health and 1 shield per second for 25 seconds|-Halloween content, leaderboards and item store",
+        "patch_notes_url": "https://fortnite.fandom.com/wiki/Update_v1.8"
     },
     "1.8.1 [3729133]": {
         "version": "1.8.1",
