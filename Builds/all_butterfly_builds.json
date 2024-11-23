@@ -968,7 +968,7 @@
         ],
         "title": "Chapter 2, Season 1",
         "release_date": "10-15-2019",
-        "engine_version": "UE4.23",
+        "engine_version": "UE4.24",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v11.00%20-%20v11.50.jpg",
         "notes": "-Start of Chapter 2! (New Island)|-New Water Gameplay (swimming, fishing, boats)|-Hideouts (haystacks & dumpsters)"
     },
@@ -983,7 +983,7 @@
         ],
         "title": "Chapter 2, Season 1",
         "release_date": "12-18-2019",
-        "engine_version": "UE4.23",
+        "engine_version": "UE4.24",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v11.00%20-%20v11.50.jpg",
         "notes": "-Introducing Battle Lab|-Winterfest 2019 has started and the entire island is covered with snow"
     },
