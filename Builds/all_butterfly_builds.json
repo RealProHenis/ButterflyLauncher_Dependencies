@@ -12,7 +12,8 @@
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
         "notes": "-Added Voice Chat on PC|-You can now switch between teammates while spectating|-Removed mouse smoothing",
-        "patch_notes_url": "https://fortnite.fandom.com/wiki/Update_v1.7.2"
+        "patch_notes_url": "https://fortnite.fandom.com/wiki/Update_v1.7.2",
+        "singleplayer_compatible": "yes"
     },
     "1.8 [3724489]": {
         "version": "1.8",
@@ -27,7 +28,8 @@
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
         "notes": "-Introducing \u201cSlurp Juice,\u201d a regeneration potion that grants 1 health and 1 shield per second for 25 seconds|-Halloween content, leaderboards and item store",
-        "patch_notes_url": "https://fortnite.fandom.com/wiki/Update_v1.8"
+        "patch_notes_url": "https://fortnite.fandom.com/wiki/Update_v1.8",
+        "singleplayer_compatible": "no"
     },
     "1.8.1 [3729133]": {
         "version": "1.8.1",
@@ -41,7 +43,8 @@
         "release_date": "11-02-2017",
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Slurp Juice can now spawn as Floor Loot in addition to in chests|-Voice chat improvements"
+        "notes": "-Slurp Juice can now spawn as Floor Loot in addition to in chests|-Voice chat improvements",
+        "singleplayer_compatible": "no"
     },
     "1.8.2 [3741772]": {
         "version": "1.8.2",
@@ -55,7 +58,8 @@
         "release_date": "11-08-2017",
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Adds the Bush|-Adjusted Pump Shotgun falloff damage"
+        "notes": "-Adds the Bush|-Adjusted Pump Shotgun falloff damage",
+        "singleplayer_compatible": "no"
     },
     "1.9 [3757339]": {
         "version": "1.9",
@@ -69,7 +73,8 @@
         "release_date": "11-14-2017",
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Launch pad added|-A new \u201cReset to Default\u201d option has been added to the \u201cGame\u201d menu"
+        "notes": "-Launch pad added|-A new \u201cReset to Default\u201d option has been added to the \u201cGame\u201d menu",
+        "singleplayer_compatible": "no"
     },
     "1.9.1 [3775276]": {
         "version": "1.9.1",
@@ -83,7 +88,8 @@
         "release_date": "11-29-2017",
         "engine_version": "UE4.16",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Smoke Grenades added|-The original Rocket Launcher has replaced the Pumpkin Launcher"
+        "notes": "-Smoke Grenades added|-The original Rocket Launcher has replaced the Pumpkin Launcher",
+        "singleplayer_compatible": "no"
     },
     "1.10 [3790078]": {
         "version": "1.10",
@@ -97,7 +103,8 @@
         "release_date": "12-06-2017",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-50v50 added as a limited mode|-New inventory UI|-Reduced aim assist on controllers"
+        "notes": "-50v50 added as a limited mode|-New inventory UI|-Reduced aim assist on controllers",
+        "singleplayer_compatible": "no"
     },
     "1.11 [3807424]": {
         "version": "1.11",
@@ -111,7 +118,8 @@
         "release_date": "12-14-2017",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Winter event, Season 2 begins|-Snowball Grenade Launcher, a festive Battle Bus, and other gifts waiting for you around the island."
+        "notes": "-Winter event, Season 2 begins|-Snowball Grenade Launcher, a festive Battle Bus, and other gifts waiting for you around the island.",
+        "singleplayer_compatible": "yes"
     },
     "2.1.0 [3825894]": {
         "version": "2.1.0",
@@ -125,7 +133,8 @@
         "release_date": "01-09-2018",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Cozy Campfire added to Save the World|-Changed the Boogie Bomb rarity to blue/rare"
+        "notes": "-Cozy Campfire added to Save the World|-Changed the Boogie Bomb rarity to blue/rare",
+        "singleplayer_compatible": "no"
     },
     "2.2.0 [3841827]": {
         "version": "2.2.0",
@@ -139,7 +148,8 @@
         "release_date": "01-18-2018",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Big map update|-Friendly Fire is now disabled|-Removed the Scoped AR from Supply Drops"
+        "notes": "-Big map update|-Friendly Fire is now disabled|-Removed the Scoped AR from Supply Drops",
+        "singleplayer_compatible": "no"
     },
     "2.3.0 [3847564]": {
         "version": "2.3.0",
@@ -153,7 +163,8 @@
         "release_date": "01-25-2018",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Added Chug Jug|-Added AutoRun|-Added a setting to disable aim assist on consoles"
+        "notes": "-Added Chug Jug|-Added AutoRun|-Added a setting to disable aim assist on consoles",
+        "singleplayer_compatible": "no"
     },
     "2.4.0 [3858292]": {
         "version": "2.4.0",
@@ -167,7 +178,8 @@
         "release_date": "02-01-2018",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Minigun and Cozy Campfire added to Battle Royale|-Added \u201cController Auto Run\u201d option"
+        "notes": "-Minigun and Cozy Campfire added to Battle Royale|-Added \u201cController Auto Run\u201d option",
+        "singleplayer_compatible": "no"
     },
     "2.4.2 [3870737]": {
         "version": "2.4.2",
@@ -181,7 +193,8 @@
         "release_date": "02-07-2018",
         "engine_version": "UE4.19",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Valentine's Day event|-Crossbow added|-Players will no longer slide off rooftops"
+        "notes": "-Valentine's Day event|-Crossbow added|-Players will no longer slide off rooftops",
+        "singleplayer_compatible": "no"
     },
     "2.5.0 [3889387]": {
         "version": "2.5.0",
@@ -195,7 +208,8 @@
         "release_date": "02-13-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Impulse Grenade added|-SMG removed|-Added a key binding for 'Toggle Pickaxe' on PC"
+        "notes": "-Impulse Grenade added|-SMG removed|-Added a key binding for 'Toggle Pickaxe' on PC",
+        "singleplayer_compatible": "no"
     },
     "3.0 [3901517]": {
         "version": "3.0",
@@ -209,7 +223,8 @@
         "release_date": "02-21-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Season 3 Battle Pass|-60 FPS on Console"
+        "notes": "-Season 3 Battle Pass|-60 FPS on Console",
+        "singleplayer_compatible": "no"
     },
     "3.1 [3915963]": {
         "version": "3.1",
@@ -223,7 +238,8 @@
         "release_date": "02-28-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Hunting Rifle and Lucky Landing added|-Adjusted inconsistent drop rates for various weapon rarities"
+        "notes": "-Hunting Rifle and Lucky Landing added|-Adjusted inconsistent drop rates for various weapon rarities",
+        "singleplayer_compatible": "no"
     },
     "3.1 [3917250]": {
         "version": "3.1",
@@ -237,7 +253,8 @@
         "release_date": "02-28-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Added Hunting Rifle and Lucky Landing|-Adjusted inconsistent drop rates for various weapon rarities|-Crash fixes on all client platforms"
+        "notes": "-Added Hunting Rifle and Lucky Landing|-Adjusted inconsistent drop rates for various weapon rarities|-Crash fixes on all client platforms",
+        "singleplayer_compatible": "no"
     },
     "3.2 [3935073]": {
         "version": "3.2",
@@ -251,7 +268,8 @@
         "release_date": "03-08-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Teams of 20 LTM|-Burnout (Battle Royale) All roads lead to Victory. Blaze your path with Burnout"
+        "notes": "-Teams of 20 LTM|-Burnout (Battle Royale) All roads lead to Victory. Blaze your path with Burnout",
+        "singleplayer_compatible": "no"
     },
     "3.3 [3942182]": {
         "version": "3.3",
@@ -265,7 +283,8 @@
         "release_date": "03-15-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Remote Explosives and Blitz LTM|-Ammo box health increased from 120 to 250"
+        "notes": "-Remote Explosives and Blitz LTM|-Ammo box health increased from 120 to 250",
+        "singleplayer_compatible": "no"
     },
     "3.5 [4008490]": {
         "version": "3.5",
@@ -279,7 +298,8 @@
         "release_date": "04-11-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Port-a-Fort|-Replay System: Save your matches and watch them from any angle"
+        "notes": "-Port-a-Fort|-Replay System: Save your matches and watch them from any angle",
+        "singleplayer_compatible": "yes"
     },
     "3.6 [4019403]": {
         "version": "3.6",
@@ -293,7 +313,8 @@
         "release_date": "04-24-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Added Clingers"
+        "notes": "-Added Clingers",
+        "singleplayer_compatible": "yes"
     },
     "4.0 [4039451]": {
         "version": "4.0",
@@ -307,7 +328,8 @@
         "release_date": "05-02-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-The Crossbow has been vaulted|-Structures on the starting island can now be destroyed"
+        "notes": "-The Crossbow has been vaulted|-Structures on the starting island can now be destroyed",
+        "singleplayer_compatible": "yes"
     },
     "4.1 [4053532]": {
         "version": "4.1",
@@ -322,7 +344,8 @@
         "release_date": "05-08-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Thanos Gamemode|-Limited Time Mashup: Infinity Gauntlet"
+        "notes": "-Thanos Gamemode|-Limited Time Mashup: Infinity Gauntlet",
+        "singleplayer_compatible": "yes"
     },
     "4.2 [4072250]": {
         "version": "4.2",
@@ -336,7 +359,8 @@
         "release_date": "05-16-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v1.7.2%20-%20v4.2.jpg",
-        "notes": "-Epic and Legendary Burst Assault Rifles, Trap nerf|-Added a new foraged item: Apples"
+        "notes": "-Epic and Legendary Burst Assault Rifles, Trap nerf|-Added a new foraged item: Apples",
+        "singleplayer_compatible": "yes"
     },
     "4.4 [4117433]": {
         "version": "4.4",
@@ -350,7 +374,8 @@
         "release_date": "06-11-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v4.2%20-%20v4.5.jpg",
-        "notes": "-Thermal Scoped Assault Rifle added|-Limited Time Mode: Sniper Shootout V3"
+        "notes": "-Thermal Scoped Assault Rifle added|-Limited Time Mode: Sniper Shootout V3",
+        "singleplayer_compatible": "yes"
     },
     "4.5 [4159770]": {
         "version": "4.5",
@@ -365,7 +390,8 @@
         "release_date": "06-27-2018",
         "engine_version": "UE4.20",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v4.2%20-%20v4.5.jpg",
-        "notes": "-Dual Pistols added|-Celebrate summer with the Fireworks Launcher"
+        "notes": "-Dual Pistols added|-Celebrate summer with the Fireworks Launcher",
+        "singleplayer_compatible": "yes"
     },
     "5.00 [4204761]": {
         "version": "5.00",
@@ -379,7 +405,8 @@
         "release_date": "07-12-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v5.00%20-%20v5.41.jpg",
-        "notes": "-Start of Season 5|-New All Terrain Kart (ATK)! Grab some friends and go for a ride|-Desert Biome Introduced"
+        "notes": "-Start of Season 5|-New All Terrain Kart (ATK)! Grab some friends and go for a ride|-Desert Biome Introduced",
+        "singleplayer_compatible": "yes"
     },
     "5.00 [4214610]": {
         "version": "5.00",
@@ -393,7 +420,8 @@
         "release_date": "07-17-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v5.00%20-%20v5.41.jpg",
-        "notes": "-Added Submachine Gun|-Vaulted Tactical Submachine Gun"
+        "notes": "-Added Submachine Gun|-Vaulted Tactical Submachine Gun",
+        "singleplayer_compatible": "yes"
     },
     "5.10 [4240749]": {
         "version": "5.10",
@@ -407,7 +435,8 @@
         "release_date": "07-25-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v5.00%20-%20v5.41.jpg",
-        "notes": "-Birthday update|-Engage in close quarters combat with the high capacity, fast firing Compact SMG"
+        "notes": "-Birthday update|-Engage in close quarters combat with the high capacity, fast firing Compact SMG",
+        "singleplayer_compatible": "yes"
     },
     "5.21 [4288479]": {
         "version": "5.21",
@@ -421,7 +450,8 @@
         "release_date": "08-15-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v5.00%20-%20v5.41.jpg",
-        "notes": "-Heavy Sniper Rifle added|-Limited Time Mode: Soaring 50's|-Limited Time Mode: Sniper Shootout"
+        "notes": "-Heavy Sniper Rifle added|-Limited Time Mode: Soaring 50's|-Limited Time Mode: Sniper Shootout",
+        "singleplayer_compatible": "yes"
     },
     "5.30 [4305896]": {
         "version": "5.30",
@@ -436,7 +466,8 @@
         "release_date": "08-23-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v5.00%20-%20v5.41.jpg",
-        "notes": "-Rift-To-Go added|-Limited Time Mode: Score Royale|-Limited Time Mode: Playground"
+        "notes": "-Rift-To-Go added|-Limited Time Mode: Score Royale|-Limited Time Mode: Playground",
+        "singleplayer_compatible": "yes"
     },
     "5.40 [4352937]": {
         "version": "5.40",
@@ -450,7 +481,8 @@
         "release_date": "09-05-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v5.00%20-%20v5.41.jpg",
-        "notes": "-High Stakes event|-Grappler added|-Limited Time Mode: The Getaway"
+        "notes": "-High Stakes event|-Grappler added|-Limited Time Mode: The Getaway",
+        "singleplayer_compatible": "yes"
     },
     "6.00 [4395664]": {
         "version": "6.00",
@@ -464,7 +496,8 @@
         "release_date": "09-27-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Shadow Stones, pets, and map changes|-Updated Map: Islands floating, crops growing, Storm approaching"
+        "notes": "-Shadow Stones, pets, and map changes|-Updated Map: Islands floating, crops growing, Storm approaching",
+        "singleplayer_compatible": "no"
     },
     "6.01 [4417689]": {
         "version": "6.01",
@@ -478,7 +511,8 @@
         "release_date": "10-03-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Added Chiller Trip|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!"
+        "notes": "-Added Chiller Trip|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!",
+        "singleplayer_compatible": "no"
     },
     "6.01 [4424678]": {
         "version": "6.01",
@@ -492,7 +526,8 @@
         "release_date": "10-03-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Added Chiller Trip|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!"
+        "notes": "-Added Chiller Trip|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!",
+        "singleplayer_compatible": "no"
     },
     "6.02 [4442095]": {
         "version": "6.02",
@@ -506,7 +541,8 @@
         "release_date": "10-10-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Quad Launcher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game"
+        "notes": "-Quad Launcher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game",
+        "singleplayer_compatible": "no"
     },
     "6.02 [4461277]": {
         "version": "6.02",
@@ -520,7 +556,8 @@
         "release_date": "10-10-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Added Quad Launcher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game"
+        "notes": "-Added Quad Launcher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game",
+        "singleplayer_compatible": "no"
     },
     "6.10 [4464155]": {
         "version": "6.10",
@@ -534,7 +571,8 @@
         "release_date": "10-16-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
+        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item",
+        "singleplayer_compatible": "no"
     },
     "6.10 [4476098]": {
         "version": "6.10",
@@ -548,7 +586,8 @@
         "release_date": "10-16-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
+        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item",
+        "singleplayer_compatible": "no"
     },
     "6.10 [4480234]": {
         "version": "6.10",
@@ -562,7 +601,8 @@
         "release_date": "10-16-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
+        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item",
+        "singleplayer_compatible": "no"
     },
     "6.21 [4526925]": {
         "version": "6.21",
@@ -577,7 +617,8 @@
         "release_date": "11-01-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Balloons Added|-Fortnitemares Challenges (Battle Royale)|-Glider Re-deploy"
+        "notes": "-Balloons Added|-Fortnitemares Challenges (Battle Royale)|-Glider Re-deploy",
+        "singleplayer_compatible": "no"
     },
     "6.22 [4543176]": {
         "version": "6.22",
@@ -591,7 +632,8 @@
         "release_date": "11-04-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Heavy Assault Rifle Added|-NFL Outfits (Battle Royale)|-Limited Time Event: Blitz!"
+        "notes": "-Heavy Assault Rifle Added|-NFL Outfits (Battle Royale)|-Limited Time Event: Blitz!",
+        "singleplayer_compatible": "no"
     },
     "6.30 [4573096]": {
         "version": "6.30",
@@ -605,7 +647,8 @@
         "release_date": "11-13-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Mounted Turret Added|-Limited Time Mode: Food Fight|-We are disabling Glider Re-Deploy in all default modes starting in v6.30"
+        "notes": "-Mounted Turret Added|-Limited Time Mode: Food Fight|-We are disabling Glider Re-Deploy in all default modes starting in v6.30",
+        "singleplayer_compatible": "no"
     },
     "6.31 [4573279]": {
         "version": "6.31",
@@ -619,7 +662,8 @@
         "release_date": "11-27-2018",
         "engine_version": "UE4.21",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v6.00%20-%20v6.31.jpg",
-        "notes": "-Epic and Legendary Pump Shotgun|-Limited Time Mode: Team Rumble|-Added Stink Bombs to Supply Drops|-Added Stink Bombs to Supply Drops"
+        "notes": "-Epic and Legendary Pump Shotgun|-Limited Time Mode: Team Rumble|-Added Stink Bombs to Supply Drops|-Added Stink Bombs to Supply Drops",
+        "singleplayer_compatible": "no"
     },
     "7.00 [4629139]": {
         "version": "7.00",
@@ -633,7 +677,8 @@
         "release_date": "12-06-2018",
         "engine_version": "UE4.22",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v7.00%20-%20v7.40.jpg",
-        "notes": "-Season 7 begins|-X-4 Stormwing Plane|-Creative (New Mode)|-Updated scope crosshair on Scoped AR and Thermal AR"
+        "notes": "-Season 7 begins|-X-4 Stormwing Plane|-Creative (New Mode)|-Updated scope crosshair on Scoped AR and Thermal AR",
+        "singleplayer_compatible": "yes"
     },
     "7.10 [4667333]": {
         "version": "7.10",
@@ -647,7 +692,8 @@
         "release_date": "12-18-2018",
         "engine_version": "UE4.22",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v7.00%20-%20v7.40.jpg",
-        "notes": "-14 Days of Fortnite Challenges Event|-Ground vehicles now slide on icy surfaces"
+        "notes": "-14 Days of Fortnite Challenges Event|-Ground vehicles now slide on icy surfaces",
+        "singleplayer_compatible": "yes"
     },
     "7.20 [4727874]": {
         "version": "7.20",
@@ -662,7 +708,8 @@
         "release_date": "01-22-2019",
         "engine_version": "UE4.22",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v7.00%20-%20v7.40.jpg",
-        "notes": "-Sneaky Snowman Added|-Limited Time Mode: Sniper Shootout|-Swapped the drop chance of Shield Potions and Small Shield Potions"
+        "notes": "-Sneaky Snowman Added|-Limited Time Mode: Sniper Shootout|-Swapped the drop chance of Shield Potions and Small Shield Potions",
+        "singleplayer_compatible": "yes"
     },
     "7.30 [4834550]": {
         "version": "7.30",
@@ -678,7 +725,8 @@
         "release_date": "01-29-2019",
         "engine_version": "UE4.22",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v7.00%20-%20v7.40.jpg",
-        "notes": "-Marshmello Event!|-Chiller Grenades added|-Limited Time Mode: Solid Gold|-Cozy Campfire - Updated Visuals"
+        "notes": "-Marshmello Event!|-Chiller Grenades added|-Limited Time Mode: Solid Gold|-Cozy Campfire - Updated Visuals",
+        "singleplayer_compatible": "yes"
     },
     "7.40 [5046157]": {
         "version": "7.40",
@@ -693,7 +741,8 @@
         "release_date": "02-13-2019",
         "engine_version": "UE4.22",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v7.00%20-%20v7.40.jpg",
-        "notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble"
+        "notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble",
+        "singleplayer_compatible": "yes"
     },
     "8.00 [5203069]": {
         "version": "8.00",
@@ -708,7 +757,8 @@
         "release_date": "02-28-2019",
         "engine_version": "UE4.22",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v8.00%20-%20v8.51.jpg",
-        "notes": "-New Locations: Sunny Steps & Lazy Lagoon|-Added Pirate Cannon"
+        "notes": "-New Locations: Sunny Steps & Lazy Lagoon|-Added Pirate Cannon",
+        "singleplayer_compatible": "yes"
     },
     "8.20 [5625478]": {
         "version": "8.20",
@@ -722,7 +772,8 @@
         "release_date": "03-27-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v8.00%20-%20v8.51.jpg",
-        "notes": "-Boom Bow Added|-Sniper Shootout LTM"
+        "notes": "-Boom Bow Added|-Sniper Shootout LTM",
+        "singleplayer_compatible": "yes"
     },
     "8.30 [5793395]": {
         "version": "8.30",
@@ -736,7 +787,8 @@
         "release_date": "04-10-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v8.00%20-%20v8.51.jpg",
-        "notes": "-The Uncle Pete's Pizza Pit restaurant in Retail Row has expanded to include a second floor. The spinning tomato head from Tomato Town has also returned|-The Block has been changed into a temple area"
+        "notes": "-The Uncle Pete's Pizza Pit restaurant in Retail Row has expanded to include a second floor. The spinning tomato head from Tomato Town has also returned|-The Block has been changed into a temple area",
+        "singleplayer_compatible": "yes"
     },
     "8.40 [6005771]": {
         "version": "8.40",
@@ -750,7 +802,8 @@
         "release_date": "04-17-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v8.00%20-%20v8.51.jpg",
-        "notes": "-Air Royale LTM|-Food Fight - Deep Fried LTM|-Egg Launcher is back"
+        "notes": "-Air Royale LTM|-Food Fight - Deep Fried LTM|-Egg Launcher is back",
+        "singleplayer_compatible": "yes"
     },
     "8.50 [6058028]": {
         "version": "8.50",
@@ -764,7 +817,8 @@
         "release_date": "04-25-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v8.00%20-%20v8.51.jpg",
-        "notes": "-Endgame LTM added|-Thanos and his Chitauri invade the Battle Royale island, in search of the six Infinity Stones"
+        "notes": "-Endgame LTM added|-Thanos and his Chitauri invade the Battle Royale island, in search of the six Infinity Stones",
+        "singleplayer_compatible": "yes"
     },
     "8.51 [6165369]": {
         "version": "8.51",
@@ -780,7 +834,8 @@
         "release_date": "05-02-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v8.00%20-%20v8.51.jpg",
-        "notes": "-Added Shadow Bomb|-Sound effects for Jetpacks were occasionally playing much louder than they should be"
+        "notes": "-Added Shadow Bomb|-Sound effects for Jetpacks were occasionally playing much louder than they should be",
+        "singleplayer_compatible": "yes"
     },
     "9.00 [6337466]": {
         "version": "9.00",
@@ -795,7 +850,8 @@
         "release_date": "05-09-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Season 9 begins|-Classic Battle Royale with Three-Person Squads|-Solid Gold: Fight to the finish using Legendary weapons"
+        "notes": "-Season 9 begins|-Classic Battle Royale with Three-Person Squads|-Solid Gold: Fight to the finish using Legendary weapons",
+        "singleplayer_compatible": "yes"
     },
     "9.01 [6428087]": {
         "version": "9.01",
@@ -809,7 +865,8 @@
         "release_date": "05-15-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Added Tactical Assault Rifle|-Nerfed Drum Gun|-Vaulted Compact SMG"
+        "notes": "-Added Tactical Assault Rifle|-Nerfed Drum Gun|-Vaulted Compact SMG",
+        "singleplayer_compatible": "yes"
     },
     "9.10 [6639283]": {
         "version": "9.10",
@@ -824,7 +881,8 @@
         "release_date": "05-19-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Added Hot Spots and Unvaulted the Semi-Automatic Sniper Rifle|-Unvaulted Semi-Auto Sniper Rifle"
+        "notes": "-Added Hot Spots and Unvaulted the Semi-Automatic Sniper Rifle|-Unvaulted Semi-Auto Sniper Rifle",
+        "singleplayer_compatible": "yes"
     },
     "9.21 [6922310]": {
         "version": "9.21",
@@ -838,7 +896,8 @@
         "release_date": "06-12-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Added Proximity Grenade Launcher|-Increased Shield Potion availability"
+        "notes": "-Added Proximity Grenade Launcher|-Increased Shield Potion availability",
+        "singleplayer_compatible": "yes"
     },
     "9.30 [7095426]": {
         "version": "9.30",
@@ -852,7 +911,8 @@
         "release_date": "06-18-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Added Chug Splash|-Added Prop-o-matic & new islands to Creative"
+        "notes": "-Added Chug Splash|-Added Prop-o-matic & new islands to Creative",
+        "singleplayer_compatible": "yes"
     },
     "9.40 [7315705]": {
         "version": "9.40",
@@ -867,7 +927,8 @@
         "release_date": "07-17-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Added Tactical Shotgun in Epic & Legendary Variants|-Vaulted Suppressed Sniper|-Unvaulted Bolt-Action Sniper"
+        "notes": "-Added Tactical Shotgun in Epic & Legendary Variants|-Vaulted Suppressed Sniper|-Unvaulted Bolt-Action Sniper",
+        "singleplayer_compatible": "yes"
     },
     "9.41 [7609292]": {
         "version": "9.41",
@@ -883,7 +944,8 @@
         "release_date": "07-23-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v9.00%20-%20v9.41.jpg",
-        "notes": "-Added Storm Scout Sniper Rifle|-Added Birthday Presents & Birthday Cake"
+        "notes": "-Added Storm Scout Sniper Rifle|-Added Birthday Presents & Birthday Cake",
+        "singleplayer_compatible": "yes"
     },
     "10.00 [7704164]": {
         "version": "10.00",
@@ -898,7 +960,8 @@
         "release_date": "08-01-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v10.00%20-%20v10.40.jpg",
-        "notes": "-Season 10 begins|-B.R.U.T.E. One player (the driver) controls movement, while the other (the gunner) rains down missiles and shotgun shots."
+        "notes": "-Season 10 begins|-B.R.U.T.E. One player (the driver) controls movement, while the other (the gunner) rains down missiles and shotgun shots.",
+        "singleplayer_compatible": "yes"
     },
     "10.10 [7955722]": {
         "version": "10.10",
@@ -912,7 +975,8 @@
         "release_date": "08-14-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v10.00%20-%20v10.40.jpg",
-        "notes": "-World Run LTM|-Unvaulted the Sword Fight Squads and Duos LTMs|-Vaulted Ice Cream"
+        "notes": "-World Run LTM|-Unvaulted the Sword Fight Squads and Duos LTMs|-Vaulted Ice Cream",
+        "singleplayer_compatible": "yes"
     },
     "10.20 [8456527]": {
         "version": "10.20",
@@ -926,7 +990,8 @@
         "release_date": "08-27-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v10.00%20-%20v10.40.jpg",
-        "notes": "-Introducing Fortnite X Mayhem collab|-Added Shield Bubble"
+        "notes": "-Introducing Fortnite X Mayhem collab|-Added Shield Bubble",
+        "singleplayer_compatible": "yes"
     },
     "10.31 [8723043]": {
         "version": "10.31",
@@ -940,7 +1005,8 @@
         "release_date": "09-18-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v10.00%20-%20v10.40.jpg",
-        "notes": "-Added Party Hub|-Added mythic Batman Grapnel Gun & Explosive Batarang|-Rift Zone is now Gotham City"
+        "notes": "-Added Party Hub|-Added mythic Batman Grapnel Gun & Explosive Batarang|-Rift Zone is now Gotham City",
+        "singleplayer_compatible": "yes"
     },
     "10.40 [9380822]": {
         "version": "10.40",
@@ -956,7 +1022,8 @@
         "release_date": "09-25-2019",
         "engine_version": "UE4.23",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v10.00%20-%20v10.40.jpg",
-        "notes": "-The End Event!|-Added the Combine and Starry Suburbs|-Limited Time Modes: Zone Wars"
+        "notes": "-The End Event!|-Added the Combine and Starry Suburbs|-Limited Time Modes: Zone Wars",
+        "singleplayer_compatible": "yes"
     },
     "11.00 [9603448]": {
         "version": "11.00",
@@ -970,7 +1037,8 @@
         "release_date": "10-15-2019",
         "engine_version": "UE4.24",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v11.00%20-%20v11.50.jpg",
-        "notes": "-Start of Chapter 2! (New Island)|-New Water Gameplay (swimming, fishing, boats)|-Hideouts (haystacks & dumpsters)"
+        "notes": "-Start of Chapter 2! (New Island)|-New Water Gameplay (swimming, fishing, boats)|-Hideouts (haystacks & dumpsters)",
+        "singleplayer_compatible": "yes"
     },
     "11.31 [10800459]": {
         "version": "11.31",
@@ -985,7 +1053,8 @@
         "release_date": "12-18-2019",
         "engine_version": "UE4.24",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v11.00%20-%20v11.50.jpg",
-        "notes": "-Introducing Battle Lab|-Winterfest 2019 has started and the entire island is covered with snow"
+        "notes": "-Introducing Battle Lab|-Winterfest 2019 has started and the entire island is covered with snow",
+        "singleplayer_compatible": "yes"
     },
     "12.00 [12905909]": {
         "version": "12.00",
@@ -1000,7 +1069,8 @@
         "release_date": "02-20-2020",
         "engine_version": "UE4.24",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v12.00%20-%20v12.60.jpg",
-        "notes": "-The island has been taken over by covert operatives - GHOST and SHADOW|-Discover exotic new locations through the island"
+        "notes": "-The island has been taken over by covert operatives - GHOST and SHADOW|-Discover exotic new locations through the island",
+        "singleplayer_compatible": "yes"
     },
     "12.21 [12353830]": {
         "version": "12.21",
@@ -1015,7 +1085,8 @@
         "release_date": "03-24-2020",
         "engine_version": "UE4.24",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v12.00%20-%20v12.60.jpg",
-        "notes": "-Operation: Knockout LTM|-Added Awaken Oro Challenges"
+        "notes": "-Operation: Knockout LTM|-Added Awaken Oro Challenges",
+        "singleplayer_compatible": "no"
     },
     "12.41 [12905909]": {
         "version": "12.41",
@@ -1031,7 +1102,8 @@
         "release_date": "04-21-2020",
         "engine_version": "UE4.25",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v12.00%20-%20v12.60.jpg",
-        "notes": "-Travis Scott's Astronomical Event!|-Everybody with a Fortnite account at the time of the update received the Fryangles Wrap"
+        "notes": "-Travis Scott's Astronomical Event!|-Everybody with a Fortnite account at the time of the update received the Fryangles Wrap",
+        "singleplayer_compatible": "yes"
     },
     "12.50 [13137020]": {
         "version": "12.50",
@@ -1046,7 +1118,8 @@
         "release_date": "04-29-2020",
         "engine_version": "UE4.25",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v12.00%20-%20v12.60.jpg",
-        "notes": "-Heavy Sniper Rifle Damage reduced to 126 (315 headshot)|-Risky Reels became a named location for the first time since Season 7"
+        "notes": "-Heavy Sniper Rifle Damage reduced to 126 (315 headshot)|-Risky Reels became a named location for the first time since Season 7",
+        "singleplayer_compatible": "yes"
     },
     "12.61 [13498980]": {
         "version": "12.61",
@@ -1062,7 +1135,8 @@
         "release_date": "05-26-2020",
         "engine_version": "UE4.25",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v12.00%20-%20v12.60.jpg",
-        "notes": "-The Device Event!|-Added Storm The Agency Challenges to the game"
+        "notes": "-The Device Event!|-Added Storm The Agency Challenges to the game",
+        "singleplayer_compatible": "yes"
     },
     "13.00 [13649278]": {
         "version": "13.00",
@@ -1076,7 +1150,8 @@
         "release_date": "06-17-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v13.00%20-%20v13.40.jpg",
-        "notes": "-Added Charge Shotgun|-Added Mythic Items|-More sidegrading options"
+        "notes": "-Added Charge Shotgun|-Added Mythic Items|-More sidegrading options",
+        "singleplayer_compatible": "yes"
     },
     "13.40 [14113327]": {
         "version": "13.40",
@@ -1092,7 +1167,8 @@
         "release_date": "09-05-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v13.00%20-%20v13.40.jpg",
-        "notes": "-New driveable cars|-Nerfed the time to consume fish from 1 to 2s"
+        "notes": "-New driveable cars|-Nerfed the time to consume fish from 1 to 2s",
+        "singleplayer_compatible": "yes"
     },
     "14.00 [14211474]": {
         "version": "14.00",
@@ -1106,7 +1182,8 @@
         "release_date": "09-27-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v14.00%20-%20v14.60.jpg",
-        "notes": "-Pleasant Park has been turned into Doom's Domain|-Galactus can now be seen in the sky|-The Yacht has been removed from the island"
+        "notes": "-Pleasant Park has been turned into Doom's Domain|-Galactus can now be seen in the sky|-The Yacht has been removed from the island",
+        "singleplayer_compatible": "yes"
     },
     "14.30 [14456520]": {
         "version": "14.30",
@@ -1120,7 +1197,8 @@
         "release_date": "10-13-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v14.00%20-%20v14.60.jpg",
-        "notes": "-Galactus has gotten closer|-Some Halloween decorations have begun to be set up around the island"
+        "notes": "-Galactus has gotten closer|-Some Halloween decorations have begun to be set up around the island",
+        "singleplayer_compatible": "yes"
     },
     "14.40 [14550713]": {
         "version": "14.40",
@@ -1135,7 +1213,8 @@
         "release_date": "10-21-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v14.00%20-%20v14.60.jpg",
-        "notes": "-The Ruins added|-Witch Shacks added|-Shadow Midas Boss and Spawns at The Ruins"
+        "notes": "-The Ruins added|-Witch Shacks added|-Shadow Midas Boss and Spawns at The Ruins",
+        "singleplayer_compatible": "yes"
     },
     "14.60 [14786821]": {
         "version": "14.60",
@@ -1151,7 +1230,8 @@
         "release_date": "11-18-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v14.00%20-%20v14.60.jpg",
-        "notes": "-Groot's Bramble Shield Unvaulted|-Venom\u2019s Smash & Grab Added"
+        "notes": "-Groot's Bramble Shield Unvaulted|-Venom\u2019s Smash & Grab Added",
+        "singleplayer_compatible": "yes"
     },
     "15.00 [14835335]": {
         "version": "15.00",
@@ -1165,7 +1245,8 @@
         "release_date": "12-02-2020",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v15.00%20-%20v15.50.jpg",
-        "notes": "-The Zero Point was exposed and damaged|-A Coliseum was built south of The Orchard|-Wolverine has vanished from the island"
+        "notes": "-The Zero Point was exposed and damaged|-A Coliseum was built south of The Orchard|-Wolverine has vanished from the island",
+        "singleplayer_compatible": "yes"
     },
     "15.30 [15341163]": {
         "version": "15.30",
@@ -1179,7 +1260,8 @@
         "release_date": "02-02-2021",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v15.00%20-%20v15.50.jpg",
-        "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina"
+        "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina",
+        "singleplayer_compatible": "yes"
     },
     "15.50 [15526472]": {
         "version": "15.30",
@@ -1193,7 +1275,8 @@
         "release_date": "02-02-2021",
         "engine_version": "UE4.26",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v15.00%20-%20v15.50.jpg",
-        "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina"
+        "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina",
+        "singleplayer_compatible": "no"
     },
     "16.00 [15685441]": {
         "version": "16.00",
@@ -1207,7 +1290,8 @@
         "release_date": "03-16-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v16.00%20-%20v16.50.jpg",
-        "notes": "-The Colossal Coliseum was destroyed by the pulse|-Hunter's Haven was removed and replaced by a landmark called Primal Pond"
+        "notes": "-The Colossal Coliseum was destroyed by the pulse|-Hunter's Haven was removed and replaced by a landmark called Primal Pond",
+        "singleplayer_compatible": "no"
     },
     "16.40 [16218553]": {
         "version": "16.40",
@@ -1222,7 +1306,8 @@
         "release_date": "05-11-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v16.00%20-%20v16.50.jpg",
-        "notes": "-Orelia Arrives|-Added Exotic Marksman Six Shooter|-Vaulted The Dub"
+        "notes": "-Orelia Arrives|-Added Exotic Marksman Six Shooter|-Vaulted The Dub",
+        "singleplayer_compatible": "no"
     },
     "17.30 [17004569]": {
         "version": "17.30",
@@ -1238,7 +1323,8 @@
         "release_date": "08-03-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v17.00%20-%20v17.50.jpg",
-        "notes": "-Slurpy Swamp Scrambled|-New LTM: Team Brawl!"
+        "notes": "-Slurpy Swamp Scrambled|-New LTM: Team Brawl!",
+        "singleplayer_compatible": "yes"
     },
     "17.50 [17388565]": {
         "version": "17.50",
@@ -1253,7 +1339,8 @@
         "release_date": "08-31-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v17.00%20-%20v17.50.jpg",
-        "notes": "-Wild Week #3 of the Invasion: High Tech Hijinks|-Playlist menu update"
+        "notes": "-Wild Week #3 of the Invasion: High Tech Hijinks|-Playlist menu update",
+        "singleplayer_compatible": "no"
     },
     "18.00 [17468642]": {
         "version": "18.00",
@@ -1267,7 +1354,8 @@
         "release_date": "09-13-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-The Mothership has crash landed south of the Island|-The IO have begun repairing Holly Hatchery|-Multiple Abductors have crashed on the island"
+        "notes": "-The Mothership has crash landed south of the Island|-The IO have begun repairing Holly Hatchery|-Multiple Abductors have crashed on the island",
+        "singleplayer_compatible": "no"
     },
     "18.10 [17661844]": {
         "version": "18.10",
@@ -1281,7 +1369,8 @@
         "release_date": "09-28-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-The Cube powering the Kevolution Energy power plant at Steamy Stacks escapes|-IO Convoy moves to Destroyed Dish"
+        "notes": "-The Cube powering the Kevolution Energy power plant at Steamy Stacks escapes|-IO Convoy moves to Destroyed Dish",
+        "singleplayer_compatible": "no"
     },
     "18.20 [17745267]": {
         "version": "18.20",
@@ -1295,7 +1384,8 @@
         "release_date": "10-12-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-The Golden Cube has arrived at The Aftermath|-Doctor Slone moves to Retail Row"
+        "notes": "-The Golden Cube has arrived at The Aftermath|-Doctor Slone moves to Retail Row",
+        "singleplayer_compatible": "no"
     },
     "18.20 [17792290]": {
         "version": "18.20",
@@ -1309,7 +1399,8 @@
         "release_date": "10-12-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-The Golden Cube has arrived at The Aftermath|-Doctor Slone moves to Retail Row"
+        "notes": "-The Golden Cube has arrived at The Aftermath|-Doctor Slone moves to Retail Row",
+        "singleplayer_compatible": "no"
     },
     "18.21 [17811397]": {
         "version": "18.21",
@@ -1323,7 +1414,8 @@
         "release_date": "10-19-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-All Purple Cubes have merged together|-The Cube Queen emerges from the Golden Cube and hovers over The Convergence"
+        "notes": "-All Purple Cubes have merged together|-The Cube Queen emerges from the Golden Cube and hovers over The Convergence",
+        "singleplayer_compatible": "no"
     },
     "18.30 [17882303]": {
         "version": "18.30",
@@ -1337,7 +1429,8 @@
         "release_date": "10-26-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-Doctor Slone and the IO convoy open the **REDACTED** bunker door|-The Convergence changes slightly and adds a Cube bouncer"
+        "notes": "-Doctor Slone and the IO convoy open the **REDACTED** bunker door|-The Convergence changes slightly and adds a Cube bouncer",
+        "singleplayer_compatible": "no"
     },
     "18.40 [18163738]": {
         "version": "18.40",
@@ -1352,7 +1445,8 @@
         "release_date": "11-16-2021",
         "engine_version": "UE4.26.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v18.00%20-%20v18.40.jpg",
-        "notes": "-Naruto & Team 7 in Fortnite!|-Shopping Carts are back"
+        "notes": "-Naruto & Team 7 in Fortnite!|-Shopping Carts are back",
+        "singleplayer_compatible": "no"
     },
     "19.10 [18675304]": {
         "version": "19.10",
@@ -1366,7 +1460,8 @@
         "release_date": "01-18-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v19.00%20-%20v19.40.jpg",
-        "notes": "-Added Klombo & Klomberry|-Unvaulted Grenade Launcher & Rocket Launcher"
+        "notes": "-Added Klombo & Klomberry|-Unvaulted Grenade Launcher & Rocket Launcher",
+        "singleplayer_compatible": "yes"
     },
     "20.40 [20244966]": {
         "version": "20.40",
@@ -1380,7 +1475,8 @@
         "release_date": "05-17-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v20.00%20-%20v20.40.jpg",
-        "notes": "-Sideways Shadow Week|-Zero Build Mode"
+        "notes": "-Sideways Shadow Week|-Zero Build Mode",
+        "singleplayer_compatible": "no"
     },
     "21.10 [20696680]": {
         "version": "21.10",
@@ -1394,7 +1490,8 @@
         "release_date": "06-21-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v21.00%20-%20v21.51.jpg",
-        "notes": "-The pink blossom tree at Butter Bloom has grown into a smaller Reality Tree|-Imperial Docking Bays have been built around the island"
+        "notes": "-The pink blossom tree at Butter Bloom has grown into a smaller Reality Tree|-Imperial Docking Bays have been built around the island",
+        "singleplayer_compatible": "no"
     },
     "21.20 [20978394]": {
         "version": "21.20",
@@ -1408,7 +1505,8 @@
         "release_date": "07-06-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v21.00%20-%20v21.51.jpg",
-        "notes": "-The pink blossom tree at Temple Bloom has grown into a smaller Reality Tree|-Cuddle Cruisers has been renamed to Syndicate Shoals"
+        "notes": "-The pink blossom tree at Temple Bloom has grown into a smaller Reality Tree|-Cuddle Cruisers has been renamed to Syndicate Shoals",
+        "singleplayer_compatible": "no"
     },
     "21.20 [21035704]": {
         "version": "21.20",
@@ -1422,7 +1520,8 @@
         "release_date": "07-06-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v21.00%20-%20v21.51.jpg",
-        "notes": "-The pink blossom tree at Temple Bloom has grown into a smaller Reality Tree|-Cuddle Cruisers has been renamed to Syndicate Shoals"
+        "notes": "-The pink blossom tree at Temple Bloom has grown into a smaller Reality Tree|-Cuddle Cruisers has been renamed to Syndicate Shoals",
+        "singleplayer_compatible": "no"
     },
     "21.50 [21657658]": {
         "version": "21.50",
@@ -1436,7 +1535,8 @@
         "release_date": "08-30-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v21.00%20-%20v21.51.jpg",
-        "notes": "-The pink blossom tree at Spawn Island has grown into a smaller Reality Tree|-All locations affected by the Reality Tree no longer changes with every match, instead being locked to a single theme and they have been renamed"
+        "notes": "-The pink blossom tree at Spawn Island has grown into a smaller Reality Tree|-All locations affected by the Reality Tree no longer changes with every match, instead being locked to a single theme and they have been renamed",
+        "singleplayer_compatible": "no"
     },
     "22.20 [22600409]": {
         "version": "22.20",
@@ -1450,7 +1550,8 @@
         "release_date": "10-18-2022",
         "engine_version": "UE5.1.0",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v22.00%20-%20v22.40.jpg",
-        "notes": "-The pink blossom tree at Spawn Island has grown into a smaller Reality Tree|-All locations affected by the Reality Tree no longer changes with every match, instead being locked to a single theme and they have been renamed"
+        "notes": "-The pink blossom tree at Spawn Island has grown into a smaller Reality Tree|-All locations affected by the Reality Tree no longer changes with every match, instead being locked to a single theme and they have been renamed",
+        "singleplayer_compatible": "no"
     },
     "22.40 [23070899]": {
         "version": "22.40",
@@ -1464,7 +1565,8 @@
         "release_date": "11-15-2022",
         "engine_version": "UE5.1.0",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v22.00%20-%20v22.40.jpg",
-        "notes": "-Added Rocket Leagues Octane Car|-Added Grapple Glider|-Big Battle Limited Time Mode"
+        "notes": "-Added Rocket Leagues Octane Car|-Added Grapple Glider|-Big Battle Limited Time Mode",
+        "singleplayer_compatible": "no"
     },
     "23.40 [24087481]": {
         "version": "23.40",
@@ -1478,7 +1580,8 @@
         "release_date": "02-14-2023",
         "engine_version": "UE5.1.0",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v23.00%20-%20v23.50.jpg",
-        "notes": "-Cold Blooded Vaults, Bosses and Henchmen were added to Brutal Bastion, Faulty Splits, Shattered Slabs|-The Bamboo has been removed"
+        "notes": "-Cold Blooded Vaults, Bosses and Henchmen were added to Brutal Bastion, Faulty Splits, Shattered Slabs|-The Bamboo has been removed",
+        "singleplayer_compatible": "no"
     },
     "23.50 [24441668]": {
         "version": "23.50",
@@ -1492,7 +1595,8 @@
         "release_date": "02-28-2023",
         "engine_version": "UE5.1.0",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v23.00%20-%20v23.50.jpg",
-        "notes": "-Unvaulted Infantry Rifle, Six Shooter, Mechanical Explosive Bow, & more!|-Vaulted Dual Pistols, Suppressed Pistol, Hand Cannon, & more!"
+        "notes": "-Unvaulted Infantry Rifle, Six Shooter, Mechanical Explosive Bow, & more!|-Vaulted Dual Pistols, Suppressed Pistol, Hand Cannon, & more!",
+        "singleplayer_compatible": "no"
     },
     "24.10 [24770548]": {
         "version": "24.10",
@@ -1506,7 +1610,8 @@
         "release_date": "03-29-2023",
         "engine_version": "UE5.1.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v24.00%20-%20v24.40.jpg",
-        "notes": "-Added Cherry Blossom Trees|-Added Wanted Posters of Triarch Nox|-Added a Reboot Van & Launch Pad to Loot Island"
+        "notes": "-Added Cherry Blossom Trees|-Added Wanted Posters of Triarch Nox|-Added a Reboot Van & Launch Pad to Loot Island",
+        "singleplayer_compatible": "no"
     },
     "24.10 [24903530]": {
         "version": "24.10",
@@ -1520,6 +1625,7 @@
         "release_date": "03-29-2023",
         "engine_version": "UE5.1.1",
         "splash": "https://raw.githubusercontent.com/RealProHenis/ButterflyLauncher_Dependencies/main/Builds/Splash%20Images/v24.00%20-%20v24.40.jpg",
-        "notes": "-Added Cherry Blossom Trees|-Added Wanted Posters of Triarch Nox|-Added a Reboot Van & Launch Pad to Loot Island"
+        "notes": "-Added Cherry Blossom Trees|-Added Wanted Posters of Triarch Nox|-Added a Reboot Van & Launch Pad to Loot Island",
+        "singleplayer_compatible": "no"
     }
 }
